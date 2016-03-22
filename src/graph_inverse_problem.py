@@ -19,7 +19,7 @@ from pandas.lib import Timestamp
 
 
 ##############################      DEFINITION OF SETTINGS
-
+#test
 FORMAT = "%Y%m%d %H%M%S%f"
 PATH = sys.path[0]
 OUTFILE = PATH + "//" + sys.argv[2]
